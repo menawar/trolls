@@ -1,0 +1,66 @@
+.left{
+    padding-right:20px;
+    border-right:1px solid rgba(255, 255, 255, 0.24);;
+}
+
+.mainnet{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color:#fff;
+
+letter-spacing: 0.15px;
+}
+
+.network{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+letter-spacing: 0.15px;
+
+color: rgba(255, 255, 255, 0.6);
+}
+
+.right{
+    padding-left:20px
+}
+
+.wallet-address{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+letter-spacing: 0.15px;
+
+/* Whie */
+
+color: #FFFFFF;
+
+}
+
+.dot{
+    background: #0BEE66;
+    width: 8px;
+    height: 8px;
+    margin-right:10px;
+}
+
+.icon{
+    width: 32px;
+height: 32px;
+border: 1px solid rgba(255, 255, 255, 0.6);
+box-sizing: border-box;
+}
+
+.ellipse-img{
+    margin-right:10px;
+}

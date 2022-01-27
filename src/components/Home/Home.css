@@ -1,0 +1,86 @@
+.card-left {
+  background: #ffffff;
+  /* Light Turquoise 1 */
+
+  border: 1px solid #c9f0ed;
+  border-radius: 12px;
+  height: 80vh;
+  width: 540px;
+}
+
+.card-right {
+  overflow-y: scroll;
+  width: 540px;
+  border-radius: 12px;
+  height: 80vh;
+
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.button {
+  background: #5982df;
+  border-radius: 24px;
+  border: none;
+  font-family: Montserrat;
+  /* font-style: normal; */
+  font-weight: bold;
+  font-size: 12px;
+  /* identical to box height, or 129% */
+
+  /* text-align: center;
+  letter-spacing: 0.25px; */
+
+  /* White B */
+  /* padding: */
+  color: #ffffff;
+}
+
+.footer {
+  background: #ffffff;
+  border-radius: 0px 0px 12px 12px;
+  display: flex;
+  /* flex-direction: column-reverse; */
+  flex: 1;
+  z-index: 1000;
+  justify-content: space-between;
+  padding: 10px 30px;
+  /* position: absolute;
+  width: 520px;
+  height: 112px;
+  right: 0px;
+  bottom: 36px; */
+}
+
+.head {
+  background: #ffffff;
+  border-radius: 12px 12px 0px 0px;
+  /* position: fixed; */
+  z-index: 1000;
+  /* width: 50%; */
+}
+
+.head-text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 120% */
+
+  letter-spacing: 0.15px;
+
+  color: #000000;
+  padding: 20px 0 20px 20px;
+}
+
+.card-body {
+  margin: 0 5px;
+}
+
+.card-container {
+  margin: 0 10px;
+}
+
+.body {
+  height: 80vh;
+}
